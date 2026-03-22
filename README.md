@@ -49,7 +49,7 @@ SMS-Spam-Detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/SMS-Spam-Detection.git
+git clone https://github.com/apurva693/SMS-Spam-Detection.git
 cd SMS-Spam-Detection
 ```
 
